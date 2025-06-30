@@ -51,7 +51,7 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Database files (optional - comment out if you want to include the sample database)
-*.db
-*.sqlite
-*.sqlite3
+# # Database files (optional - comment out if you want to include the sample database)
+# *.db
+# *.sqlite
+# *.sqlite3
