@@ -51,7 +51,18 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# # Database files (optional - comment out if you want to include the sample database)
+# React/Node.js
+react/node_modules/
+react/build/
+web/node_modules/
+web/build/
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database files (optional - comment out if you want to include the sample database)
 # *.db
 # *.sqlite
 # *.sqlite3
